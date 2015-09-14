@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 potatoe
+=======
+new test
+>>>>>>> Testing_New_Files
